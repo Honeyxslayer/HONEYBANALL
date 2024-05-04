@@ -22,7 +22,7 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/honeyxslayer/banall)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Honeyxslayer/honeybanall)
 
 # Credits
 * [𝐇𝐎𝐍𝐄𝐘](https://github.com/Honeyxslayer)

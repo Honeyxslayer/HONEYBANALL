@@ -6,7 +6,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Honeyxslayer/count.svg" />
 </p>
 
 # Ban All Bot

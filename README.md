@@ -22,8 +22,8 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itszshivam/BanallBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/honeyxslayer/banall)
 
 # Credits
-* [SHIVAM](https://github.com/itszshivam)
+* [𝐇𝐎𝐍𝐄𝐘](https://github.com/Honeyxslayer)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)

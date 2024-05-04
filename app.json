@@ -1,8 +1,8 @@
 {
    "name": "𝐇ᴏɴᴇʏ 𝐁ᴀɴᴀʟʟ",
    "description": "𝐓𝐇𝐈𝐒 𝐈𝐒 𝐁𝐀𝐍𝐀𝐋𝐋 𝐁𝐎𝐓 𝐅𝐎𝐑 𝐃𝐄𝐒𝐓𝐑𝐎𝐘𝐈𝐍𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐇𝐎𝐍𝐄𝐘 🤝",
-   "repository": "https://github.com/itszshivam/BanAllBot",
-   "logo": "https://telegra.ph/file/1f63de6e3ce65ef6b9f00.jpg",
+   "repository": "https://github.com/Honeyxslayer/honeybanall.git",
+   "logo": "https://graph.org/file/e17394a900a718cbd231c.jpg",
    "image": "heroku/python",
    "env": {
       "API_ID": {

@@ -10,10 +10,6 @@
 **OgHoneyy/OgHoneyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Honeyxslayer/count.svg" />
-</p>
 
 # Ban All Bot
 

@@ -9,8 +9,6 @@
 <!--
 **OgHoneyy/OgHoneyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
 # Ban All Bot
 
 - This is a Sudo Based Members Banning Bot 

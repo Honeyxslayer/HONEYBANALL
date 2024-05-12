@@ -6,23 +6,20 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ωσяℓ∂+ℓαяgεsт+αη∂+ғαsтεsт+υsεявσт;ηεvεя+εxιsтε∂+ιη+тнιs+ωσяℓ∂.;+𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞+𝐗++𝐔𝐬𝐞𝐫𝐛𝐨𝐭+❤️✨+%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ᴡᴏʀʟs+ʟᴀʀɢᴇsᴛ+ᴀɴᴅ+ғᴀsᴛᴇsᴛ+ʙᴀɴᴀʟʟ;ɴᴇᴠᴇʀ+ᴇxɪsᴛᴇᴅ+ɪɴ+ᴛʜɪs+ᴡᴏʀʟᴅ.;+𝐇𝐨𝐧𝐞𝐲+𝐗++𝐁𝐚𝐧𝐚𝐥𝐥+❤️✨+%E2%9D%A4%EF%B8%8F">
 
-# Ban All Bot
+# 𝗕𝗔𝗡𝗔𝗟𝗟 𝗕𝗢𝗧
 
-- This is a Sudo Based Members Banning Bot 
+- ᴛʜɪs ɪs ᴀ sᴜᴅᴏ ʙᴀsᴇᴅ ᴍᴇᴍʙᴇʀs ʙᴀɴɴɪɴɢ ʙᴏᴛ  
  
-# Commands
-- ping
-- banall
-- unbanall
-- kickall
-- leave 
-- restart
+# 𝗖𝗢𝗠𝗠𝗔𝗡𝗗
+- ᴘɪɴʜ
+- ʙᴀɴᴀʟʟ
+- ᴜɴʙᴀɴᴀʟʟ
+- ᴋɪᴄᴋᴀʟʟ
+- ʟᴇᴀᴠᴇ 
+- ʀᴇsᴛᴀʀᴛ
 
-# Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itszshivam/BanallBot)
+# ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Honeyxslayer/honeybanall)
 
-# Credits
-* [SHIVAM](https://github.com/itszshivam)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)

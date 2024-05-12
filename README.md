@@ -2,7 +2,7 @@
 
 <p align="center">
     <b> ᴠɪsɪᴛᴏʀs </b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Japanese-X-Userbot/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/honeybanall/count.svg" />
 </p>
 
 <p align="center">

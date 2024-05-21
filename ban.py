@@ -70,7 +70,7 @@ async def ping(e):
 async def kickall(event):
    if event.sender_id in SUDO_USERS:
      if not event.is_group:
-         Reply = f"Noob !! Use This Cmd in Group."
+         Reply = f"ʙsᴅᴋ ɢᴀɴᴅ ᴘᴇ ʀᴇᴘᴛᴇ ᴍᴀʀᴜɴɢᴀ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴏɴʟʏ ɢʀᴏᴜᴘ."
          await event.reply(Reply)
      else:
          await event.delete()
@@ -79,8 +79,8 @@ async def kickall(event):
          admin = RiZ.admin_rights
          creator = RiZ.creator
          if not admin and not creator:
-              return await event.reply("I Don't have sufficient Rights !!")
-         RiZoeL = await Riz.send_message(event.chat_id, "**Hello !! I'm Alive**")
+              return await event.reply("ʙʜᴀɪ ᴛᴜ ᴛʜᴏʀᴀ ʙᴋʟ ʜᴀɪɴ ᴋʏᴀ ғᴜʟʟ ʀɪɢʜᴛs ᴅᴇ ᴍᴄ !!")
+         RiZoeL = await Riz.send_message(event.chat_id, "**ᴋɪᴄᴋ ᴀʟʟ ᴍᴄ ɪɴ ᴛʜɪs ɢʀᴏᴜᴘ**")
          admins = await event.client.get_participants(event.chat_id, filter=ChannelParticipantsAdmins)
          admins_id = [i.id for i in admins]
          all = 0
@@ -111,8 +111,8 @@ async def banall(event):
          admin = RiZ.admin_rights
          creator = RiZ.creator
          if not admin and not creator:
-              return await event.reply("I Don't have sufficient Rights !!")
-         RiZoeL = await Riz.send_message(event.chat_id, "**Hello !! I'm Alive**")
+              return await event.reply("ʙʜᴀɪ ᴛᴜ ᴛʜᴏʀᴀ ʙᴋʟ ʜᴀɪɴ ᴋʏᴀ ғᴜʟʟ ʀɪɢʜᴛs ᴅᴇ ᴍᴄ !!")
+         RiZoeL = await Riz.send_message(event.chat_id, "**ʙᴀɴ ᴀʟʟ ʀᴀɴᴅɪ ᴋᴇ ᴘɪʟʟᴇ ɪɴ ᴛʜɪs ɢʀᴏᴜᴘ**")
          admins = await event.client.get_participants(event.chat_id, filter=ChannelParticipantsAdmins)
          admins_id = [i.id for i in admins]
          all = 0
@@ -181,7 +181,7 @@ async def _(e):
 @Riz.on(events.NewMessage(pattern="^/restart"))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "__Restarting__ !!!"
+        text = "ʀᴇsᴛᴀʀᴛ ʜᴏ ᴊᴀᴛᴀ ʜᴜ ʙʜᴀɪ ¡¡"
         await e.reply(text, parse_mode=None, link_preview=None )
         try:
             await Riz.disconnect()
